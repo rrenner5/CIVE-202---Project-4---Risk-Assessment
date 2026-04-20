@@ -10,21 +10,7 @@ To use this Python tool, open the ipynb file and follow the directions imbedded 
 
   This repository includes the following files:
   
-  [NRI Hazard Information](NRI_HazardInfo.xlsx)
-  
-  [NRI Census Tracts Table](NRI_Table_CensusTracts.xlsx)
-
-  [NRI Data Dictionary](NRIDataDictionary.xlsx)
-  
-  [SVI Oklahoma Data](Oklahoma.xlsx)
-
-  [SVI Oregon Data](Oregon.xlsx)
-
-  [NRI Shapefile](NRI_Shapefile_CensusTracts.shp)
-
-  [Oklahoma NRI Table](NRI_Table_OK.xlsx)
-
-  [Oregon NRI Table](NRI_Table_OR.xlsx)
+  [Raw Data](Raw_Data.zip)
 
   [Python Code](CIVE202_Spring2026_Group13_Project4_Code.ipynb)
 
